@@ -1,2 +1,2 @@
 # Projects for Learning
-Check out my autodidact learning projects aimed to improving my programming and AI skills for universities or workforce, I look forward to your advices and contributions
+Check out my self-directed learning projects, created to improve my programming and AI skills and prepare me for university and the workforce. I’m always open to feedback, advice, and contributions!
